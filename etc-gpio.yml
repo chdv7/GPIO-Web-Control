@@ -1,0 +1,5 @@
+gpio:
+  - name: light
+    location: /sys/class/gpio/gpio1/value
+  - name: pump
+    location: /sys/class/gpio/gpio1/value
